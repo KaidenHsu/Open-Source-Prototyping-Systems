@@ -1,2 +1,2 @@
 make:
-	verilator -sv --timing --trace --binary --top-module testbench 	 single_cycle_top.sv mux2.sv adder.sv branch_unit.sv pc.sv 	 instr_mem.sv regfile.sv imm_gen.sv alu.sv data_mem.sv 	 control_unit.sv testbench.sv instr_parser.sv
+	verilator -sv --timing --trace --binary --top-module testbench src/single_cycle_top.sv src/mux2.sv src/adder.sv src/branch_unit.sv src/pc.sv src/instr_mem.sv src/regfile.sv src/imm_gen.sv src/alu.sv src/data_mem.sv src/control_unit.sv src/testbench.sv src/instr_parser.sv
