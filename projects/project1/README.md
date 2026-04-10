@@ -1,7 +1,7 @@
 # RV32I Single-Cycle Baseline Processor
 
-<p align="center"><img src="images/block_diagram.png" alt="block diagram" width="480" /></p>
-<p align="center"><img src="images/timing_diagram.png" alt="timing diagram" width="480" /></p>
+<p align="center"><img src="images/block_diagram.png" alt="block diagram" width="720" /></p>
+<p align="center"><img src="images/timing_diagram.png" alt="timing diagram" width="720" /></p>
 
 ## I. Supported Commands
 
