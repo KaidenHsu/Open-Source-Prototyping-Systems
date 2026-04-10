@@ -6,7 +6,7 @@ course projects for "Open Source Prototype Systems and Applications (2026)" at N
 
  Projects   | Descriptions
 --------|:-----
-[Project1][1]| RV32I Single-Cycle Baseline Processor
+[Project 1][1]| RV32I Single-Cycle Baseline Processor
 
 [1]: projects/project1/
 
