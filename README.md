@@ -1,13 +1,6 @@
 # Open-Source-Prototyping-Systems
 
-course projects and slides for "Open Source Prototyping Systems and Applications" at NSYSU
-
-* tools:
-    * simulator: Verilator
-    * waveform viewer: GTKWave
-
-* </> languages
-    * SystemVerilog
+course projects for "Open Source Prototyping Systems and Applications" at NSYSU
 
 ## Projects
 
