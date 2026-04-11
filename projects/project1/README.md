@@ -4,7 +4,7 @@
 
 <p align="center"><img src="images/block_diagram.png" alt="block diagram" width="720" /></p>
 
-* all datapaths are 32-bit wide except for the output signals of controller and instruction parser
+* all wires are 32-bit wide except for the output signals of controller and instruction parser
 
 ## II. Timing Diagram
 
